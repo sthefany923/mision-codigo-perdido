@@ -2,10 +2,7 @@ package mision;
 
 public class heroe {
 
-	public static void main(String[] args) {
-		
-	}
-		// TODO Auto-generated method stub
+	
 		  // 1. Atributos de la criatura (¡Con la palabra 'public' para que el main pueda leerlos!)
 	    public String nombre;
 	    public int nivel;
