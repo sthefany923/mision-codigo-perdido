@@ -6,7 +6,7 @@ public class poder {
 	    public String nombre;
 	    public int danio; 
 
-	    // El constructor en minúsculas
+	    // El constructor en minúsculas son pruebitas
 	    public poder(String nombre, int danio) {
 	        this.nombre = nombre;
 	        this.danio = danio;

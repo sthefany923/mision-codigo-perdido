@@ -16,7 +16,7 @@ public class main {
         // 4. Desata la furia llamando al método activar() del poder
         String ataqueEpico = miPoder.activar();
 
-        // 5. Imprime en la consola los stats finales
+        // 5. Imprime en la consola los stats finales todo corecto 
         System.out.println("--- ESTADÍSTICAS DEL HÉROE ---");
         System.out.println("Nombre: " + miHeroe.nombre);
         System.out.println("Nivel: " + miHeroe.nivel);

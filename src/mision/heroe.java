@@ -8,7 +8,7 @@ public class heroe {
 	    public int nivel;
 	    public int poder; 
 
-	    // 2. El Constructor (El ritual que crea al héroe con sus datos iniciales)
+	    // 2. El Constructor (El ritual que crea al héroe con sus datos iniciales) todo bueno
 	    public heroe(String nombre, int nivel, int poder) {
 	        this.nombre = nombre;
 	        this.nivel = nivel;
