@@ -5,7 +5,7 @@ public class poder {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	}
-	    // Atributos del hechizo
+	   
 	    public String nombre;
 	    public int danio; 
 
