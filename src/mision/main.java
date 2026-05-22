@@ -24,7 +24,7 @@ public class main {
         System.out.println("Fuerza Bruta (Luego de entrenar): " + miHeroe.poder);
         System.out.println("---------------------------------");
         
-        // Imprime el mensaje del ataque místico
+        // Imprime el mensaje del ataque místico git ayudame
         System.out.println(ataqueEpico);
     }
 }
